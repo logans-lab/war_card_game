@@ -1,7 +1,7 @@
 # war_card_game
 The card game of War can be played in seconds.
   
-Build in Java using IntelliJ IDEA.
+Built in Java using IntelliJ IDEA.
 Completed in April, 2021.
 
 Built from scratch using Enums to hold rank and suit values.
